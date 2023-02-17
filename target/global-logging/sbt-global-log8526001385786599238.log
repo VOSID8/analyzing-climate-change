@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(;Test/compile; collectAnalyses, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Done event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(Test/compile, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskStart, {"taskId":{"id":"38","parents":[]},"eventTime":1676314409139,"message":"Compiling root","dataKind":"compile-task","data":{"target":{"uri":"file:/C:/Projects/NOAAData/noaadata/#root/Compile"}}})[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Projects\NOAAData\noaadata\target\scala-2.12\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":3,"message":"compiling 1 Scala source to C:\\Projects\\NOAAData\\noaadata\\target\\scala-2.12\\classes ..."})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///C:/Projects/NOAAData/noaadata/src/main/scala/trying.scala"},"buildTarget":{"uri":"file:/C:/Projects/NOAAData/noaadata/#root/Compile"},"diagnostics":[{"range":{"start":{"line":46,"character":40},"end":{"line":46,"character":41}},"severity":1,"source":"sbt","message":"not found: value tmin2022"}],"reset":false})[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\NOAAData\noaadata\src\main\scala\trying.scala:47:41: not found: value tmin2022[0m
+[0m[[0m[31merror[0m] [0m[0m  val combinedTemps2022 = tmax2022.join(tmin2022, Seq("sid", "date"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"C:\\Projects\\NOAAData\\noaadata\\src\\main\\scala\\trying.scala:47:41: not found: value tmin2022"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"  val combinedTemps2022 = tmax2022.join(tmin2022, Seq(\"sid\", \"date\"))"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"                                        ^"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskProgress, {"taskId":{"id":"38","parents":[]},"eventTime":1676314409325,"message":"Compiling root (15%)","total":26,"progress":15,"dataKind":"compile-progress","data":{"target":{"uri":"file:/C:/Projects/NOAAData/noaadata/#root/Compile"}}})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskProgress, {"taskId":{"id":"38","parents":[]},"eventTime":1676314409325,"message":"Compiling root (15%)","total":26,"progress":15,"dataKind":"compile-progress","data":{"target":{"uri":"file:/C:/Projects/NOAAData/noaadata/#root/Compile"}}})[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"one error found"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///C:/Projects/NOAAData/noaadata/src/main/scala/trying.scala"},"buildTarget":{"uri":"file:/C:/Projects/NOAAData/noaadata/#root/Compile"},"diagnostics":[{"range":{"start":{"line":46,"character":40},"end":{"line":46,"character":41}},"severity":1,"source":"sbt","message":"not found: value tmin2022"}],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskFinish, {"taskId":{"id":"38","parents":[]},"eventTime":1676314409330,"message":"Compiled root","status":2,"dataKind":"compile-report","data":{"target":{"uri":"file:/C:/Projects/NOAAData/noaadata/#root/Compile"},"errors":1,"warnings":0,"time":191}})[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched json error for requestId None: {"code":-32603,"message":"(Compile / \u001b[31mcompileIncremental\u001b[0m) Compilation failed"}[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"(Compile / \u001b[31mcompileIncremental\u001b[0m) Compilation failed"})[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed 14 Feb, 2023 12:23:29 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Done event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

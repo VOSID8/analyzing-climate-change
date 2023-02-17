@@ -1,0 +1,1810 @@
+2023.01.11 23:13:41 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.11 23:13:43 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.11 23:13:43 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.11 23:13:46 INFO  time: initialize in 3.65s
+2023.01.11 23:13:47 WARN  Build server is not auto-connectable.
+2023.01.11 23:15:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.11 23:15:40 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.11 23:15:43 INFO  time: code lens generation in 5.69s
+2023.01.11 23:15:43 INFO  time: code lens generation in 1.86s
+2023.01.11 23:15:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.11 23:15:58 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.11 23:21:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.11 23:24:21 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:22:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:22:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:22:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:22:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:22:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:22:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:22:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:25:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:25:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:25:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:25:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:25:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:29:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:29:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:29:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:32:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:32:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:32:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:32:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 12, 2023 2:35:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 230
+2023.01.12 02:36:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:36:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:36:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:36:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:36:19 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:36:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:59:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:59:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 02:59:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 03:00:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 12, 2023 2:32:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 333
+2023.01.12 14:32:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 14:32:18 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:29:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:29:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:29:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:29:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:29:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:31:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:32:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:34:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:34:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:34:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:34:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:34:19 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:34:21 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:50:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:50:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 18:52:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 19:24:26 INFO  shutting down Metals
+2023.01.12 19:24:26 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.01.12 19:24:48 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.12 19:24:49 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.12 19:24:49 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.12 19:24:50 INFO  time: initialize in 1.63s
+2023.01.12 19:24:51 WARN  Build server is not auto-connectable.
+2023.01.12 19:24:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 19:24:54 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.12 19:24:55 INFO  time: code lens generation in 4.43s
+2023.01.12 19:25:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 19:25:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:56:21 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:56:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:56:30 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 12, 2023 8:56:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+2023.01.12 20:56:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:56:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:56:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:56:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:56:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 12, 2023 8:57:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 92
+2023.01.12 20:57:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:57:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:57:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:57:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:57:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:58:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:58:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:58:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:58:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:58:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:58:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:58:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:59:00 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:59:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:59:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 20:59:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:00:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:00:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:01:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:01:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:01:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:01:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:01:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\try.scala
+2023.01.12 21:03:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:08:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 12, 2023 9:08:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 360
+2023.01.12 21:08:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:08:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:08:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:08:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:08:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:08:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:08:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:08:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:12:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:18:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:18:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:18:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 12, 2023 9:26:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 497
+2023.01.12 21:26:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:26:58 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:26:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:27:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:27:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:27:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:29:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:29:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:29:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:33:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:33:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:36:45 INFO  shutting down Metals
+2023.01.12 21:36:45 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.01.12 21:36:59 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.12 21:37:00 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.12 21:37:00 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.12 21:37:01 INFO  time: initialize in 1.35s
+2023.01.12 21:37:02 WARN  Build server is not auto-connectable.
+2023.01.12 21:37:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:37:03 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.12 21:37:05 INFO  time: code lens generation in 2.8s
+2023.01.12 21:40:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:40:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:40:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:40:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:40:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:41:00 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:41:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:41:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:41:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:42:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:44:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:47:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:47:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:47:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:47:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 12, 2023 9:49:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 179
+2023.01.12 21:50:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:50:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:50:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:54:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:54:45 INFO  shutting down Metals
+2023.01.12 21:54:45 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.01.12 21:58:24 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.12 21:58:27 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.12 21:58:27 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.12 21:58:32 INFO  time: initialize in 4.89s
+2023.01.12 21:58:33 WARN  Build server is not auto-connectable.
+2023.01.12 21:58:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 21:58:39 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.12 21:58:46 INFO  time: code lens generation in 11s
+2023.01.12 22:05:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:05:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:05:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:08:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:08:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:08:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:08:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 12, 2023 10:08:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+2023.01.12 22:08:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:11:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:11:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:12:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:12:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:12:12 INFO  shutting down Metals
+2023.01.12 22:12:35 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.12 22:12:37 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.12 22:12:37 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.12 22:12:41 INFO  time: initialize in 3.54s
+2023.01.12 22:12:41 WARN  Build server is not auto-connectable.
+2023.01.12 22:12:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:12:44 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.12 22:12:49 INFO  time: code lens generation in 6.42s
+2023.01.12 22:16:22 INFO  shutting down Metals
+2023.01.12 22:16:22 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.01.12 22:18:14 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.12 22:18:15 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.12 22:18:15 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.12 22:18:17 INFO  time: initialize in 2.07s
+2023.01.12 22:18:17 WARN  Build server is not auto-connectable.
+2023.01.12 22:18:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:18:19 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.12 22:18:22 INFO  time: code lens generation in 4.13s
+2023.01.12 22:18:22 INFO  time: code lens generation in 4.18s
+Jan 12, 2023 10:22:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2023.01.12 22:22:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:22:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:23:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:23:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:23:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:23:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 12, 2023 10:23:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 72
+2023.01.12 22:27:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:27:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:27:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:27:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:27:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 12, 2023 10:27:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 148
+Jan 12, 2023 10:27:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 152
+Jan 12, 2023 10:27:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 149
+2023.01.12 22:27:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:27:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:32:32 INFO  shutting down Metals
+2023.01.12 22:32:33 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.01.12 22:33:43 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.12 22:33:45 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.12 22:33:45 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.12 22:33:48 INFO  time: initialize in 3.74s
+2023.01.12 22:33:49 WARN  Build server is not auto-connectable.
+2023.01.12 22:33:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:33:53 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.12 22:33:57 INFO  time: code lens generation in 6.66s
+2023.01.12 22:43:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:43:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:43:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:44:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:44:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:44:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:44:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:44:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:48:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:53:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:53:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 12, 2023 10:56:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 132
+2023.01.12 22:56:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:56:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:56:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:56:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:56:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 22:56:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 23:01:15 INFO  shutting down Metals
+2023.01.12 23:07:32 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.12 23:07:34 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.12 23:07:34 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.12 23:07:37 INFO  time: initialize in 3.24s
+2023.01.12 23:07:37 WARN  Build server is not auto-connectable.
+2023.01.12 23:07:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 23:07:41 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.12 23:07:45 INFO  time: code lens generation in 7.35s
+2023.01.12 23:09:32 INFO  shutting down Metals
+2023.01.12 23:11:05 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.12 23:11:07 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.12 23:11:07 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.12 23:11:08 INFO  time: initialize in 1.96s
+2023.01.12 23:11:09 WARN  Build server is not auto-connectable.
+2023.01.12 23:11:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 23:11:11 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.12 23:11:13 INFO  time: code lens generation in 1.75s
+2023.01.12 23:13:21 INFO  shutting down Metals
+2023.01.12 23:13:21 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.01.12 23:45:27 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.12 23:45:28 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.12 23:45:28 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.12 23:45:32 INFO  time: initialize in 3.41s
+2023.01.12 23:45:33 WARN  Build server is not auto-connectable.
+2023.01.12 23:45:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 23:45:37 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.12 23:45:40 INFO  time: code lens generation in 6.01s
+2023.01.12 23:47:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 23:48:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.12 23:50:41 INFO  shutting down Metals
+2023.01.13 00:07:05 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.13 00:07:06 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.13 00:07:06 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.13 00:07:08 INFO  time: initialize in 1.93s
+2023.01.13 00:07:09 WARN  Build server is not auto-connectable.
+2023.01.13 00:07:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.13 00:07:11 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.13 00:07:13 INFO  time: code lens generation in 2.75s
+2023.01.13 00:47:01 INFO  shutting down Metals
+2023.01.13 00:47:01 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.01.18 01:56:42 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.18 01:56:44 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.18 01:56:44 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.18 01:56:48 INFO  time: initialize in 4.17s
+2023.01.18 01:56:49 WARN  Build server is not auto-connectable.
+2023.01.18 01:56:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 01:56:57 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.18 01:57:01 INFO  time: code lens generation in 10s
+2023.01.18 01:57:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 01:57:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 01:57:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 01:57:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 01:57:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 01:57:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 01:58:00 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 01:58:30 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 01:58:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 01:58:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:02:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:02:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:02:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:02:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:02:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:02:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:02:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:02:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:02:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:02:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 18, 2023 2:02:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 121
+Jan 18, 2023 2:02:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 124
+2023.01.18 02:02:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:03:00 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:05:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:05:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:05:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:05:30 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:05:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:08:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:08:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:08:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:08:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:10:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:10:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:11:19 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:11:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 18, 2023 2:11:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 240
+2023.01.18 02:11:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:11:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:11:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:11:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:11:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:11:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:11:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 18, 2023 2:11:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 283
+Jan 18, 2023 2:11:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 284
+Jan 18, 2023 2:11:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 285
+2023.01.18 02:11:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:11:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:12:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 18, 2023 2:12:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 309
+Jan 18, 2023 2:12:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 307
+Jan 18, 2023 2:12:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 308
+2023.01.18 02:12:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:15:00 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:15:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:15:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:19:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:19:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:19:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:19:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:19:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 18, 2023 2:19:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 380
+2023.01.18 02:19:58 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:20:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:20:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:24:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:24:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:24:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:24:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:24:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 18, 2023 2:24:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 446
+Jan 18, 2023 2:24:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 447
+Jan 18, 2023 2:24:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 448
+Jan 18, 2023 2:24:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 451
+2023.01.18 02:24:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:24:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 18, 2023 2:24:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 466
+2023.01.18 02:24:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:24:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:18 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:25:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:26:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:27:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:27:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:28:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:28:19 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 18, 2023 2:28:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 655
+Jan 18, 2023 2:28:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 656
+Jan 18, 2023 2:28:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 661
+2023.01.18 02:28:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+Jan 18, 2023 2:28:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 670
+2023.01.18 02:28:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:28:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:28:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:29:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:33:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 02:48:44 INFO  shutting down Metals
+2023.01.18 12:19:03 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.18 12:19:04 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.18 12:19:04 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.18 12:19:06 INFO  time: initialize in 2.3s
+2023.01.18 12:19:07 WARN  Build server is not auto-connectable.
+2023.01.18 12:19:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.18 12:19:09 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.18 12:19:11 INFO  time: code lens generation in 3.23s
+Jan 18, 2023 2:33:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.01.18 14:35:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+Jan 18, 2023 2:35:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2023.01.18 14:35:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+2023.01.18 14:35:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+2023.01.18 14:35:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+Jan 18, 2023 11:56:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 86
+Jan 19, 2023 4:26:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 91
+2023.01.20 02:55:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.20 02:55:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.20 03:13:51 INFO  shutting down Metals
+2023.01.20 03:14:41 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.20 03:14:42 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.20 03:14:42 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.20 03:14:44 INFO  time: initialize in 2.19s
+2023.01.20 03:14:45 WARN  Build server is not auto-connectable.
+2023.01.20 03:14:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.20 03:14:50 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.20 03:14:52 INFO  time: code lens generation in 6.24s
+2023.01.20 03:40:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.20 03:40:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.20 15:08:47 INFO  shutting down Metals
+2023.01.20 15:08:47 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.01.20 15:12:56 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.20 15:12:59 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.01.20 15:12:59 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.20 15:13:03 INFO  time: initialize in 4.71s
+2023.01.20 15:13:04 WARN  Build server is not auto-connectable.
+2023.01.20 15:13:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+2023.01.20 15:13:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Main.scala
+2023.01.20 15:13:08 INFO  no build target found for C:\Projects\NOAAData\noaadata\build.sbt. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.20 15:13:12 INFO  time: code lens generation in 7.67s
+2023.01.20 15:13:13 INFO  shutting down Metals
+2023.01.20 15:13:13 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2023.02.12 13:15:03 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.12 13:15:04 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.12 13:15:04 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.12 13:15:06 INFO  time: initialize in 1.95s
+2023.02.12 13:15:07 WARN  Build server is not auto-connectable.
+2023.02.12 13:15:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+2023.02.12 13:15:12 INFO  no build target found for C:\Projects\NOAAData\noaadata\build.sbt. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.12 13:15:15 INFO  time: code lens generation in 8.03s
+2023.02.12 13:15:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precip1972.scala.scala
+2023.02.12 13:16:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precip2022.scala
+2023.02.12 13:16:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Data\precip1972.scala
+2023.02.12 13:16:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precip1972.scala
+2023.02.12 13:16:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:17:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Ditempcommon.scala
+2023.02.12 13:17:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Ditempindi.scala
+2023.02.12 13:17:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Ditemp1972.scala
+2023.02.12 13:17:18 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmaxgraph.scala
+2023.02.12 13:17:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmax.scala
+2023.02.12 13:17:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmaxgraph.scala
+2023.02.12 13:17:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmaxgraph.scala
+2023.02.12 13:17:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmaxgraph.scala
+2023.02.12 13:17:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precip1972.scala
+2023.02.12 13:17:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precip1972.scala
+2023.02.12 13:20:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:20:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Ditemp1972.scala
+2023.02.12 13:21:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:21:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:21:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmin.scala
+2023.02.12 13:25:00 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:25:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:25:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:25:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:25:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:25:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:25:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:25:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:25:58 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:18 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+Feb 12, 2023 1:26:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 257
+2023.02.12 13:26:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:26:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:27:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:27:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:27:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:27:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:27:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:27:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+Feb 12, 2023 1:31:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 431
+2023.02.12 13:31:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:31:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:33:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:33:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:33:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:33:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:33:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:33:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:33:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:33:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:34:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precip1972.scala
+2023.02.12 13:34:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precip1972.scala
+2023.02.12 13:41:19 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:41:21 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:41:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:41:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:41:36 INFO  shutting down Metals
+2023.02.12 13:41:37 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.02.12 13:44:23 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.12 13:44:24 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.12 13:44:24 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.12 13:44:27 INFO  time: initialize in 3.19s
+2023.02.12 13:44:29 WARN  Build server is not auto-connectable.
+2023.02.12 13:44:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:44:32 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.12 13:44:35 INFO  time: code lens generation in 6.38s
+Feb 12, 2023 1:58:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2023.02.12 13:58:19 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:58:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:58:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:58:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:58:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:58:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:58:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 13:58:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:04:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:04:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:04:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:05:07 INFO  shutting down Metals
+2023.02.12 14:05:07 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.02.12 14:07:00 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.12 14:07:01 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.12 14:07:01 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.12 14:07:03 INFO  time: initialize in 1.83s
+2023.02.12 14:07:03 WARN  Build server is not auto-connectable.
+2023.02.12 14:07:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:07:05 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.12 14:07:08 INFO  time: code lens generation in 3.91s
+2023.02.12 14:14:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:14:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:27:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:35:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:35:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:35:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:35:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:43:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:43:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:43:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:43:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+Feb 12, 2023 2:43:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 126
+2023.02.12 14:43:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:52:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:52:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:52:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:52:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:52:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:52:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:52:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:52:58 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:53:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:53:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 14:53:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 15:01:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precip1972.scala
+2023.02.12 15:01:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precip2022.scala
+2023.02.12 15:01:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 15:01:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 15:02:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 15:02:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 15:02:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 15:02:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 15:02:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 15:02:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:32:00 INFO  shutting down Metals
+2023.02.12 21:35:41 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.12 21:35:42 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.12 21:35:42 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.12 21:35:43 INFO  time: initialize in 1.4s
+2023.02.12 21:35:44 WARN  Build server is not auto-connectable.
+2023.02.12 21:35:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:35:45 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.12 21:35:47 INFO  time: code lens generation in 3.09s
+2023.02.12 21:36:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:36:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:37:00 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:37:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:37:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:37:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:37:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:37:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:37:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:37:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:37:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:37:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:44:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:44:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:44:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:44:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:44:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:44:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:47:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:50:46 INFO  shutting down Metals
+2023.02.12 21:52:19 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.12 21:52:20 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.12 21:52:20 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.12 21:52:22 INFO  time: initialize in 1.45s
+2023.02.12 21:52:22 WARN  Build server is not auto-connectable.
+2023.02.12 21:52:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:52:24 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.12 21:52:25 INFO  time: code lens generation in 2.93s
+2023.02.12 21:56:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:56:30 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:56:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:56:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:56:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:56:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:56:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:56:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:56:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:56:47 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:56:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:56:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 21:57:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:04:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:05:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:05:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:05:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:05:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:05:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:05:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:12:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+Feb 12, 2023 10:12:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 244
+2023.02.12 22:12:30 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:12:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:12:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:12:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:13:00 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:13:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:13:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:13:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:16:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:16:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:17:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:17:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:17:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:17:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:17:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:17:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:54:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:54:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+Feb 12, 2023 10:54:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 456
+2023.02.12 22:54:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:54:18 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:54:21 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:54:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:54:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:54:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 22:54:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.12 23:20:57 INFO  shutting down Metals
+2023.02.13 09:02:54 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.13 09:02:55 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.13 09:02:55 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 09:02:57 INFO  time: initialize in 1.54s
+2023.02.13 09:02:58 WARN  Build server is not auto-connectable.
+2023.02.13 09:02:58 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 09:02:59 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 09:03:01 INFO  time: code lens generation in 3.08s
+2023.02.13 09:03:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 09:03:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 09:07:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 09:07:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 09:08:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 09:11:23 INFO  shutting down Metals
+2023.02.13 09:13:03 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.13 09:13:05 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.13 09:13:05 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 09:13:06 INFO  time: initialize in 1.79s
+2023.02.13 09:13:07 WARN  Build server is not auto-connectable.
+2023.02.13 09:13:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 09:13:08 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 09:13:11 INFO  time: code lens generation in 4.06s
+2023.02.13 09:15:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 09:21:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+2023.02.13 09:21:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmaxgraph.scala
+2023.02.13 09:21:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Ditemp2022.scala
+2023.02.13 09:22:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Ditemp1972.scala
+2023.02.13 09:22:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmaxgraph.scala
+2023.02.13 09:22:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmaxsize.scala
+2023.02.13 09:22:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmaxgraph.scala
+2023.02.13 09:23:06 INFO  shutting down Metals
+2023.02.13 09:23:06 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.02.13 10:07:04 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.13 10:07:05 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.13 10:07:05 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 10:07:06 INFO  time: initialize in 1.9s
+2023.02.13 10:07:07 WARN  Build server is not auto-connectable.
+2023.02.13 10:07:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:07:09 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 10:07:11 INFO  time: code lens generation in 3.3s
+2023.02.13 10:07:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:07:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:07:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:07:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+Feb 13, 2023 10:07:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+2023.02.13 10:07:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:07:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:07:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:07:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:08:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:08:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:08:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:15:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:16:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:16:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:16:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:16:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:16:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:17:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:17:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:17:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:17:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:17:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:17:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:17:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:17:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:17:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:19:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:20:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+Feb 13, 2023 10:20:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 351
+2023.02.13 10:20:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:20:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:20:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:20:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:20:47 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:20:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:20:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:20:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:21:00 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:21:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+Feb 13, 2023 10:21:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 475
+2023.02.13 10:21:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:21:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:21:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:21:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:21:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:21:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:21:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:22:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:22:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:22:21 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:22:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:22:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:22:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:22:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:24:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:24:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:24:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:24:19 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:24:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:24:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:24:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:24:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:24:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:26:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:26:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:27:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:27:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+Feb 13, 2023 10:27:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 874
+2023.02.13 10:27:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:27:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:30:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:30:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:30:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:30:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:30:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:42:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 10:43:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:43:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:43:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 10:43:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 11:12:51 INFO  shutting down Metals
+2023.02.13 11:12:51 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.02.13 11:14:54 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.13 11:14:57 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.13 11:14:57 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 11:15:00 INFO  time: initialize in 3.32s
+2023.02.13 11:15:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 11:15:02 WARN  Build server is not auto-connectable.
+2023.02.13 11:15:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 11:15:03 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 11:15:06 INFO  time: code lens generation in 4.08s
+2023.02.13 11:15:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 11:15:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 11:15:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 11:15:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 11:15:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 11:15:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 11:15:18 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 11:27:10 INFO  shutting down Metals
+2023.02.13 12:53:02 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.13 12:53:03 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.13 12:53:03 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 12:53:05 INFO  time: initialize in 2.12s
+2023.02.13 12:53:06 WARN  Build server is not auto-connectable.
+2023.02.13 12:53:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 12:53:08 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 12:53:09 INFO  time: code lens generation in 3.48s
+2023.02.13 12:57:06 INFO  shutting down Metals
+2023.02.13 12:57:06 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.02.13 12:59:13 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.13 12:59:14 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.13 12:59:14 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 12:59:16 INFO  time: initialize in 1.58s
+2023.02.13 12:59:16 WARN  Build server is not auto-connectable.
+2023.02.13 12:59:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 12:59:18 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 12:59:19 INFO  time: code lens generation in 3.06s
+2023.02.13 13:02:47 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\please.scala
+2023.02.13 13:02:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\please.scala
+2023.02.13 13:05:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\please.scala
+2023.02.13 13:05:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\please.scala
+2023.02.13 13:05:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\please.scala
+2023.02.13 13:09:13 INFO  shutting down Metals
+2023.02.13 13:09:13 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.02.13 13:09:39 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.13 13:09:40 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.13 13:09:40 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 13:09:41 INFO  time: initialize in 1.7s
+2023.02.13 13:09:42 WARN  Build server is not auto-connectable.
+2023.02.13 13:09:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\please.scala
+2023.02.13 13:09:43 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\please.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 13:09:45 INFO  time: code lens generation in 3.07s
+2023.02.13 13:16:51 INFO  shutting down Metals
+2023.02.13 13:18:28 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.13 13:18:29 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.13 13:18:29 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 13:18:31 INFO  time: initialize in 1.91s
+2023.02.13 13:18:32 WARN  Build server is not auto-connectable.
+2023.02.13 13:18:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 13:18:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\please.scala
+2023.02.13 13:18:36 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 13:18:38 INFO  time: code lens generation in 5.8s
+2023.02.13 13:18:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:18:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:18:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:18:47 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:18:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:18:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:18:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:18:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:18:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:18:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:18:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:19:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:19:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:19:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:19:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+Feb 13, 2023 1:19:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 91
+2023.02.13 13:19:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:19:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:40:58 INFO  shutting down Metals
+2023.02.13 13:59:21 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.13 13:59:22 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.13 13:59:22 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 13:59:24 INFO  time: initialize in 1.87s
+2023.02.13 13:59:25 WARN  Build server is not auto-connectable.
+2023.02.13 13:59:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 13:59:26 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 13:59:28 INFO  time: code lens generation in 3.68s
+2023.02.13 16:15:34 INFO  shutting down Metals
+2023.02.13 16:15:34 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.02.13 16:32:51 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.13 16:32:53 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.13 16:32:53 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 16:32:54 INFO  time: initialize in 1.76s
+2023.02.13 16:32:55 WARN  Build server is not auto-connectable.
+2023.02.13 16:32:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala
+2023.02.13 16:32:57 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\aridcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 16:32:58 INFO  time: code lens generation in 3.06s
+2023.02.13 16:35:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Ditemp1972.scala
+2023.02.13 19:12:47 INFO  shutting down Metals
+2023.02.13 19:13:08 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.13 19:13:09 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.13 19:13:09 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 19:13:10 INFO  time: initialize in 1.37s
+2023.02.13 19:13:10 WARN  Build server is not auto-connectable.
+2023.02.13 19:21:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 19:21:42 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 19:21:43 INFO  time: code lens generation in 3.05s
+2023.02.13 19:49:19 INFO  shutting down Metals
+2023.02.13 19:52:07 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.13 19:52:08 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.13 19:52:08 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 19:52:10 INFO  time: initialize in 1.68s
+2023.02.13 19:52:10 WARN  Build server is not auto-connectable.
+2023.02.13 19:59:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 19:59:17 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 19:59:18 INFO  time: code lens generation in 1.92s
+2023.02.13 19:59:18 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 19:59:19 INFO  time: code lens generation in 1.06s
+2023.02.13 20:00:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:00:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+2023.02.13 20:01:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+2023.02.13 20:01:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+2023.02.13 20:02:00 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+2023.02.13 20:02:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+2023.02.13 20:02:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+2023.02.13 20:02:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\build.sbt
+2023.02.13 20:02:26 INFO  skipping build import with status 'Dismissed'
+2023.02.13 20:04:47 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:04:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:04:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:04:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 20:05:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:05:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:06:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:07:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:07:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:07:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:07:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:07:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:07:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:07:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:07:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:07:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:08:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:08:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:08:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:08:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:08:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:08:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:08:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:08:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:08:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:09:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:09:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:09:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:09:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:11:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:11:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:12:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:12:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:12:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:12:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:14:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:15:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:16:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 20:16:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:30 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:47 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:07:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:09:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:09:18 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:10:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:10:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:10:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:52:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:52:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:52:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:52:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:52:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:53:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Ditempgraph.scala
+2023.02.13 21:53:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Ditempindi.scala
+2023.02.13 21:53:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+Feb 13, 2023 9:53:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 831
+2023.02.13 21:53:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:53:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:53:47 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:53:58 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:56:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:57:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:57:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:57:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:57:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:57:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:57:18 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:57:21 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:57:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:58:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:58:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:58:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:58:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:59:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:59:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:59:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:59:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 21:59:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:00:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:00:21 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:00:30 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:04:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:04:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:04:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:04:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:05:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:05:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:05:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:08:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:08:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:08:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:08:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:08:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:08:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:08:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:08:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:08:58 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:08:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:09:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 22:09:30 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:09:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:09:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:09:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:10:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 22:10:49 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:10:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmin.scala
+2023.02.13 22:15:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.13 22:17:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.13 22:23:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmin.scala
+2023.02.13 22:23:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:23:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:23:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:23:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:23:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+Feb 13, 2023 10:23:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1596
+2023.02.13 22:24:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:24:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:24:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:25:21 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:25:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:25:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:25:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:25:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:25:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+Feb 13, 2023 10:25:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1705
+2023.02.13 22:25:43 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:25:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:33:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:33:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:33:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:34:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:34:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:34:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:35:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:35:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmaxgraph.scala
+2023.02.13 22:36:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:38:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmax.scala
+2023.02.13 22:38:58 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:38:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.13 22:39:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:44:04 ERROR text document: file:///c:/Projects/NOAAData/noaadata/src/main/scala/trying.scalajava.nio.file.NoSuchFileException: c:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:79)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:97)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:102)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$2(InteractiveSemanticdbs.scala:90)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$1(InteractiveSemanticdbs.scala:90)
+	at java.util.HashMap.compute(HashMap.java:1198)
+	at java.util.Collections$SynchronizedMap.compute(Collections.java:2684)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:89)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:63)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:22)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1793)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1791)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.02.13 22:44:36 ERROR text document: file:///c:/Projects/NOAAData/noaadata/src/main/scala/trying.scalajava.nio.file.NoSuchFileException: c:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:79)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:97)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:102)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$2(InteractiveSemanticdbs.scala:90)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$1(InteractiveSemanticdbs.scala:90)
+	at java.util.HashMap.compute(HashMap.java:1198)
+	at java.util.Collections$SynchronizedMap.compute(Collections.java:2684)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:89)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:63)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:22)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1793)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1791)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.02.13 22:45:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 22:46:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:20:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:20:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:20:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:20:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:25:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:25:47 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:26:02 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:26:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:27:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:27:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:27:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:27:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:29:18 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:29:21 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:30:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:30:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:30:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:31:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:38:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:38:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:38:58 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:39:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:39:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:39:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:40:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:40:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:40:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:40:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:40:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:40:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:40:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:40:54 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:41:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:41:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:41:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:43:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:43:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:43:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:43:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:44:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:44:10 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:44:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:44:13 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:44:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:44:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:44:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:44:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:46:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:46:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:46:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:46:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+Feb 13, 2023 11:47:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2565
+2023.02.13 23:47:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.13 23:55:25 INFO  shutting down Metals
+2023.02.14 00:12:36 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.14 00:12:36 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.14 00:12:36 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.14 00:12:38 INFO  time: initialize in 1.51s
+2023.02.14 00:12:38 WARN  Build server is not auto-connectable.
+2023.02.14 00:12:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.14 00:12:40 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.14 00:12:42 INFO  time: code lens generation in 3.41s
+2023.02.14 00:14:19 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.14 00:14:21 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.14 00:14:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.14 00:14:25 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.14 00:14:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.14 00:14:30 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.14 00:14:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.14 00:14:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.14 00:14:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.14 00:14:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\predict.scala
+2023.02.14 00:17:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:18:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\please.scala
+2023.02.14 00:18:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\precipcommon.scala
+2023.02.14 00:19:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Ditempcommon.scala
+2023.02.14 00:20:03 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Ditempgraph.scala
+2023.02.14 00:20:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmaxgraph.scala
+2023.02.14 00:21:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:21:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:21:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:21:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:21:58 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:22:00 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:22:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:22:17 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:22:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:22:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:23:14 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:23:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:23:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:29:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:29:55 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:29:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:34:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:34:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:39:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:40:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:40:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:40:08 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:51:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:53:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:53:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:53:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:53:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:53:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:59:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:59:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:59:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:59:34 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:59:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:59:40 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 00:59:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+Feb 14, 2023 1:00:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 571
+2023.02.14 01:00:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:00:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:03:05 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:03:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:03:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:03:36 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:03:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:03:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Size.scala
+2023.02.14 01:03:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmax.scala
+2023.02.14 01:04:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmingraph.scala
+2023.02.14 01:04:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\tmaxsize.scala
+2023.02.14 01:04:27 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\Ditempindi.scala
+2023.02.14 01:04:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:04:41 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:05:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:05:42 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:05:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:05:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:05:50 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+Feb 14, 2023 1:05:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 735
+2023.02.14 01:06:01 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\semiaridcommon.scala
+2023.02.14 01:06:15 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:06:16 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:06:19 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:06:20 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:06:23 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:06:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:06:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:06:33 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:22:09 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:22:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:22:31 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:22:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:22:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:26:46 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:26:48 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:26:53 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:26:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:27:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:27:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:27:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:27:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:27:38 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:27:44 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:27:45 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:27:47 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:27:51 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:27:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+Feb 14, 2023 1:27:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1021
+Feb 14, 2023 1:28:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1050
+2023.02.14 01:28:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:28:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:28:12 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:28:21 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:28:22 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:28:24 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:28:26 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:28:28 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:28:29 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:28:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:35:32 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:35:35 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:35:37 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:35:39 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:35:47 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+Feb 14, 2023 1:35:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1192
+2023.02.14 01:35:52 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+Feb 14, 2023 1:35:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1217
+2023.02.14 01:35:56 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:35:57 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:36:04 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:36:06 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:36:11 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:46:07 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:46:18 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.14 01:56:58 INFO  shutting down Metals
+2023.02.14 01:56:59 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.02.17 21:44:51 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\NOAAData\noaadata\.metals\lsp.trace.json or C:\Users\Siddh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.17 21:44:54 INFO  logging to file C:\Projects\NOAAData\noaadata\.metals\metals.log
+2023.02.17 21:44:54 INFO  Started: Metals version 0.11.10 in workspace 'C:\Projects\NOAAData\noaadata' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Siddh/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.17 21:44:58 INFO  time: initialize in 4.12s
+2023.02.17 21:44:58 WARN  Build server is not auto-connectable.
+2023.02.17 21:44:59 WARN  no build target for: C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala
+2023.02.17 21:45:05 INFO  no build target found for C:\Projects\NOAAData\noaadata\src\main\scala\trying.scala. Using presentation compiler with project's scala-library version: 3.2.1
+Feb 17, 2023 9:45:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.17 21:46:23 INFO  shutting down Metals
+2023.02.17 21:46:23 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
