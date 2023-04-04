@@ -2,23 +2,135 @@
 [0m[[0m[31merror[0m] [0m[0m	at com.sun.javafx.application.LauncherImpl.launchApplication1(LauncherImpl.java:917)[0m
 [0m[[0m[31merror[0m] [0m[0m	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication$1(LauncherImpl.java:182)[0m
 [0m[[0m[31merror[0m] [0m[0m	at java.lang.Thread.run(Thread.java:750)[0m
-[0m[[0m[31merror[0m] [0m[0mCaused by: java.lang.IllegalArgumentException: tmx2022 does not exist. Available: sid, date, mtype, value[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.types.StructType.$anonfun$apply$1(StructType.scala:282)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.Map$Map4.getOrElse(Map.scala:220)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.types.StructType.apply(StructType.scala:281)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.ml.feature.VectorAssembler.$anonfun$transformSchema$1(VectorAssembler.scala:161)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.TraversableLike.$anonfun$flatMap$1(TraversableLike.scala:244)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.IndexedSeqOptimized.foreach(IndexedSeqOptimized.scala:36)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.IndexedSeqOptimized.foreach$(IndexedSeqOptimized.scala:33)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:198)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.TraversableLike.flatMap(TraversableLike.scala:244)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.TraversableLike.flatMap$(TraversableLike.scala:241)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.mutable.ArrayOps$ofRef.flatMap(ArrayOps.scala:198)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.ml.feature.VectorAssembler.transformSchema(VectorAssembler.scala:160)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.ml.PipelineStage.transformSchema(Pipeline.scala:71)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.ml.feature.VectorAssembler.transform(VectorAssembler.scala:85)[0m
-[0m[[0m[31merror[0m] [0m[0m	at trying$.delayedEndpoint$trying$1(trying.scala:53)[0m
-[0m[[0m[31merror[0m] [0m[0m	at trying$delayedInit$body.apply(trying.scala:22)[0m
+[0m[[0m[31merror[0m] [0m[0mCaused by: org.apache.spark.sql.AnalysisException: Column 'lon' does not exist. Did you mean one of the following? [sid, tavemin];[0m
+[0m[[0m[31merror[0m] [0m[0m'Project ['lon][0m
+[0m[[0m[31merror[0m] [0m[0m+- Filter (tavemin#762 > 0.0)[0m
+[0m[[0m[31merror[0m] [0m[0m   +- Project [sid#32, ((((((((((tmin18#424 + tmin19#417) + tmin20#410) + tmin21#403) + tmin22#396) - tmin72#431) - tmin73#438) - tmin74#445) - tmin75#452) - tmin76#459) / cast(50 as double)) AS tavemin#762][0m
+[0m[[0m[31merror[0m] [0m[0m      +- Project [sid#32, tmin22#396, tmin21#403, tmin20#410, tmin19#417, tmin18#424, tmin72#431, tmin73#438, tmin74#445, tmin75#452, tmin76#459, lat#5, lon#6, name#7][0m
+[0m[[0m[31merror[0m] [0m[0m         +- Join Inner, (sid#32 = sid#4)[0m
+[0m[[0m[31merror[0m] [0m[0m            :- Project [sid#32, tmin22#396, tmin21#403, tmin20#410, tmin19#417, tmin18#424, tmin72#431, tmin73#438, tmin74#445, tmin75#452, tmin76#459][0m
+[0m[[0m[31merror[0m] [0m[0m            :  +- Join Inner, (sid#32 = sid#284)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :- Project [sid#32, tmin22#396, tmin21#403, tmin20#410, tmin19#417, tmin18#424, tmin72#431, tmin73#438, tmin74#445, tmin75#452][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :  +- Join Inner, (sid#32 = sid#256)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :- Project [sid#32, tmin22#396, tmin21#403, tmin20#410, tmin19#417, tmin18#424, tmin72#431, tmin73#438, tmin74#445][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :  +- Join Inner, (sid#32 = sid#228)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :- Project [sid#32, tmin22#396, tmin21#403, tmin20#410, tmin19#417, tmin18#424, tmin72#431, tmin73#438][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :  +- Join Inner, (sid#32 = sid#200)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :- Project [sid#32, tmin22#396, tmin21#403, tmin20#410, tmin19#417, tmin18#424, tmin72#431][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :  +- Join Inner, (sid#32 = sid#172)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :- Project [sid#32, tmin22#396, tmin21#403, tmin20#410, tmin19#417, tmin18#424][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :  +- Join Inner, (sid#32 = sid#144)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :- Project [sid#32, tmin22#396, tmin21#403, tmin20#410, tmin19#417][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :  +- Join Inner, (sid#32 = sid#116)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :- Project [sid#32, tmin22#396, tmin21#403, tmin20#410][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :  +- Join Inner, (sid#32 = sid#88)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :- Project [sid#32, tmin22#396, tmin21#403][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :  +- Join Inner, (sid#32 = sid#60)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :     :- Aggregate [sid#32], [sid#32, avg(tmin22#316) AS tmin22#396][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :     :  +- Project [sid#32, date#33, value#35 AS tmin22#316][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :     :     +- Project [sid#32, date#33, value#35][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :     :        +- GlobalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :     :           +- LocalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :     :              +- Filter (mtype#34 = TMIN)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :     :                 +- Relation [sid#32,date#33,mtype#34,value#35] csv[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :     +- Aggregate [sid#60], [sid#60, avg(tmin21#324) AS tmin21#403][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :        +- Project [sid#60, date#61, value#63 AS tmin21#324][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :           +- Project [sid#60, date#61, value#63][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :              +- GlobalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :                 +- LocalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :                    +- Filter (mtype#62 = TMIN)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     :                       +- Relation [sid#60,date#61,mtype#62,value#63] csv[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :     +- Aggregate [sid#88], [sid#88, avg(tmin20#332) AS tmin20#410][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :        +- Project [sid#88, date#89, value#91 AS tmin20#332][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :           +- Project [sid#88, date#89, value#91][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :              +- GlobalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :                 +- LocalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :                    +- Filter (mtype#90 = TMIN)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     :                       +- Relation [sid#88,date#89,mtype#90,value#91] csv[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :     +- Aggregate [sid#116], [sid#116, avg(tmin19#340) AS tmin19#417][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :        +- Project [sid#116, date#117, value#119 AS tmin19#340][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :           +- Project [sid#116, date#117, value#119][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :              +- GlobalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :                 +- LocalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :                    +- Filter (mtype#118 = TMIN)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     :                       +- Relation [sid#116,date#117,mtype#118,value#119] csv[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :     +- Aggregate [sid#144], [sid#144, avg(tmin18#348) AS tmin18#424][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :        +- Project [sid#144, date#145, value#147 AS tmin18#348][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :           +- Project [sid#144, date#145, value#147][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :              +- GlobalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :                 +- LocalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :                    +- Filter (mtype#146 = TMIN)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     :                       +- Relation [sid#144,date#145,mtype#146,value#147] csv[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :     +- Aggregate [sid#172], [sid#172, avg(tmin72#356) AS tmin72#431][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :        +- Project [sid#172, date#173, value#175 AS tmin72#356][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :           +- Project [sid#172, date#173, value#175][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :              +- GlobalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :                 +- LocalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :                    +- Filter (mtype#174 = TMIN)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     :                       +- Relation [sid#172,date#173,mtype#174,value#175] csv[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :     +- Aggregate [sid#200], [sid#200, avg(tmin73#364) AS tmin73#438][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :        +- Project [sid#200, date#201, value#203 AS tmin73#364][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :           +- Project [sid#200, date#201, value#203][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :              +- GlobalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :                 +- LocalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :                    +- Filter (mtype#202 = TMIN)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     :                       +- Relation [sid#200,date#201,mtype#202,value#203] csv[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :     +- Aggregate [sid#228], [sid#228, avg(tmin74#372) AS tmin74#445][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :        +- Project [sid#228, date#229, value#231 AS tmin74#372][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :           +- Project [sid#228, date#229, value#231][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :              +- GlobalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :                 +- LocalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :                    +- Filter (mtype#230 = TMIN)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     :                       +- Relation [sid#228,date#229,mtype#230,value#231] csv[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :     +- Aggregate [sid#256], [sid#256, avg(tmin75#380) AS tmin75#452][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :        +- Project [sid#256, date#257, value#259 AS tmin75#380][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :           +- Project [sid#256, date#257, value#259][0m
+[0m[[0m[31merror[0m] [0m[0m            :     :              +- GlobalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :                 +- LocalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :                    +- Filter (mtype#258 = TMIN)[0m
+[0m[[0m[31merror[0m] [0m[0m            :     :                       +- Relation [sid#256,date#257,mtype#258,value#259] csv[0m
+[0m[[0m[31merror[0m] [0m[0m            :     +- Aggregate [sid#284], [sid#284, avg(tmin76#388) AS tmin76#459][0m
+[0m[[0m[31merror[0m] [0m[0m            :        +- Project [sid#284, date#285, value#287 AS tmin76#388][0m
+[0m[[0m[31merror[0m] [0m[0m            :           +- Project [sid#284, date#285, value#287][0m
+[0m[[0m[31merror[0m] [0m[0m            :              +- GlobalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :                 +- LocalLimit 10000000[0m
+[0m[[0m[31merror[0m] [0m[0m            :                    +- Filter (mtype#286 = TMIN)[0m
+[0m[[0m[31merror[0m] [0m[0m            :                       +- Relation [sid#284,date#285,mtype#286,value#287] csv[0m
+[0m[[0m[31merror[0m] [0m[0m            +- LogicalRDD [sid#4, lat#5, lon#6, name#7], false[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.package$AnalysisErrorAt.failAnalysis(package.scala:54)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis$7(CheckAnalysis.scala:200)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis$7$adapted(CheckAnalysis.scala:193)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:367)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis$6(CheckAnalysis.scala:193)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis$6$adapted(CheckAnalysis.scala:193)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.Stream.foreach(Stream.scala:533)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis$1(CheckAnalysis.scala:193)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.$anonfun$checkAnalysis$1$adapted(CheckAnalysis.scala:102)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:367)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis(CheckAnalysis.scala:102)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis.checkAnalysis$(CheckAnalysis.scala:97)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis(Analyzer.scala:187)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer.$anonfun$executeAndCheck$1(Analyzer.scala:210)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper$.markInAnalyzer(AnalysisHelper.scala:330)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer.executeAndCheck(Analyzer.scala:207)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.$anonfun$analyzed$1(QueryExecution.scala:76)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.QueryPlanningTracker.measurePhase(QueryPlanningTracker.scala:111)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$2(QueryExecution.scala:185)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution$.withInternalError(QueryExecution.scala:510)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.$anonfun$executePhase$1(QueryExecution.scala:185)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:779)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.executePhase(QueryExecution.scala:184)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.analyzed$lzycompute(QueryExecution.scala:76)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.analyzed(QueryExecution.scala:74)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.assertAnalyzed(QueryExecution.scala:66)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.Dataset$.$anonfun$ofRows$1(Dataset.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:779)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.Dataset$.ofRows(Dataset.scala:89)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.Dataset.withPlan(Dataset.scala:3887)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.Dataset.select(Dataset.scala:1519)[0m
+[0m[[0m[31merror[0m] [0m[0m	at tmax5$.delayedEndpoint$tmax5$1(tmax5.scala.scala:129)[0m
+[0m[[0m[31merror[0m] [0m[0m	at tmax5$delayedInit$body.apply(tmax5.scala.scala:17)[0m
 [0m[[0m[31merror[0m] [0m[0m	at scala.Function0.apply$mcV$sp(Function0.scala:39)[0m
 [0m[[0m[31merror[0m] [0m[0m	at scala.Function0.apply$mcV$sp$(Function0.scala:39)[0m
 [0m[[0m[31merror[0m] [0m[0m	at scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)[0m
@@ -30,7 +142,7 @@
 [0m[[0m[31merror[0m] [0m[0m	at scala.collection.mutable.ListBuffer.foreach(ListBuffer.scala:47)[0m
 [0m[[0m[31merror[0m] [0m[0m	at scalafx.application.JFXApp.init(JFXApp.scala:309)[0m
 [0m[[0m[31merror[0m] [0m[0m	at scalafx.application.JFXApp.init$(JFXApp.scala:309)[0m
-[0m[[0m[31merror[0m] [0m[0m	at trying$.init(trying.scala:22)[0m
+[0m[[0m[31merror[0m] [0m[0m	at tmax5$.init(tmax5.scala.scala:17)[0m
 [0m[[0m[31merror[0m] [0m[0m	at scalafx.application.AppHelper.start(AppHelper.scala:37)[0m
 [0m[[0m[31merror[0m] [0m[0m	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$8(LauncherImpl.java:863)[0m
 [0m[[0m[31merror[0m] [0m[0m	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$7(PlatformImpl.java:326)[0m
